@@ -1,2 +1,4 @@
-user-Agent:*
-Disallow:
+# Robots.txt file for TK sites
+#
+User-agent: *
+Disallow: /
